@@ -12,6 +12,7 @@ body {
   background-size: cover;
 input[type="submit"] {
   background: red;
+  border: solid white 10px;
 }
 
 .input {
