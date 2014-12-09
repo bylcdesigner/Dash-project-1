@@ -1,0 +1,28 @@
+<style>
+h1 {
+  text-align: right;
+}
+p {
+  text-align: right;
+  font-size: 100%;
+  padding-left: 300px;
+}
+body {
+  background: url("http://travelnoire.com/wp-content/uploads/2014/10/Paris.jpg");
+  background-size: cover;
+input[type="submit"] {
+  background: red;
+}
+
+.input {
+  text-align: right;
+}
+</style>
+<body>
+	<h1>Laura Castillo</h1>
+	<p>Hello! I'm Laura Castillo. I am a Biomedical Sciences major at the University of Central Florida. I'm obsessed with dogs. Say hello!</p>
+	<div class="input">
+		<input type="email" placeholder="Your Email">
+		<input type="submit">
+	</div>
+</body>
